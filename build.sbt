@@ -12,7 +12,7 @@ scalaVersion := "2.10.3"
 
 libraryDependencies += "com.github.scopt" %% "scopt" % "3.1.0"
 
-libraryDependencies += "com.google.guava" % "guava" % "15.0"
+libraryDependencies += "com.google.guava" % "guava" % "16.0.1"
 
 libraryDependencies += "org.specs2" %% "specs2" % "2.2.3" % "test"
 
