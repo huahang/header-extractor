@@ -62,7 +62,6 @@ object HeaderExtractor extends App {
     } else {
       println("Can't create output " + outputDir + ".")
     }
-
   }
 
   def isHeader(fileName: String) = {
